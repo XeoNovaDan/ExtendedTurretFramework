@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<UpgradeTurrets.label>升级炮塔</UpgradeTurrets.label>
+		<UpgradeTurrets.verb>升级</UpgradeTurrets.verb>
+		<UpgradeTurrets.gerund>升级</UpgradeTurrets.gerund>
+		<ConstructDeliverResourcesToTurrets.label>搬运材料至炮塔</ConstructDeliverResourcesToTurrets.label>
+		<ConstructDeliverResourcesToTurrets.verb>搬运</ConstructDeliverResourcesToTurrets.verb>
+		<ConstructDeliverResourcesToTurrets.gerund>搬运</ConstructDeliverResourcesToTurrets.gerund>
+		<DeliverResourcesToTurrets.label>搬运材料至炮塔</DeliverResourcesToTurrets.label>
+		<DeliverResourcesToTurrets.verb>搬运</DeliverResourcesToTurrets.verb>
+		<DeliverResourcesToTurrets.gerund>搬运</DeliverResourcesToTurrets.gerund>
+	</LanguageData>
