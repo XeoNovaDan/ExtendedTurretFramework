@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<LanguageData>
+		<TurretsUpgraded.label>炮塔已被升級</TurretsUpgraded.label>
+		<TurretsUpgraded.description>已升級的炮塔數量。</TurretsUpgraded.description>
+	</LanguageData>
